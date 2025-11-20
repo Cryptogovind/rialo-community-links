@@ -2,7 +2,7 @@
 
 ### Quick Links Hub for Rialo Community Members
 
-Ek simple resource page jahan saare important Rialo community links ek jagah mil jayenge! Perfect for newcomers jo community mein join kar rahe hain.
+A simple resource page where all important Rialo community links are organized in one place! Perfect for newcomers joining the community.
 
 ## 🔗 Important Links
 
@@ -30,32 +30,32 @@ Ek simple resource page jahan saare important Rialo community links ek jagah mil
 
 ## 🌟 How to Use
 
-1. Bookmark ye page future reference ke liye
-2. New members ko share karo
-3. Links update hote rahenge
-4. Discord mein active raho community ke liye!
+1. Bookmark this page for future reference
+2. Share with new community members
+3. Links will be updated regularly
+4. Stay active in Discord for community engagement!
 
 ## 🤝 Community First
 
-Rialo ek community-driven project hai. Sab milke build kar rahe hain!
+Rialo is a community-driven project. We're building together!
 
 ### Stay Connected
-- Daily Discord pe active raho
-- Twitter pe engage karo
-- Community events mein participate karo
-- Newcomers ki help karo
+- Stay active on Discord daily
+- Engage on Twitter
+- Participate in community events
+- Help newcomers get started
 
 ## 📝 Contributing
 
-Agar koi important link miss ho gaya hai ya update chahiye, toh:
-1. Issue create karo
-2. Ya directly pull request submit karo
-3. Discord pe bhi bata sakte ho
+If you notice any missing links or need updates:
+1. Create an issue
+2. Or submit a pull request directly
+3. You can also mention it on Discord
 
 ## ✨ Made with ❤️ by the Community
 
-Created by [@Cryptogovind](https://github.com/Cryptogovind) for the Rialo fam!
+Created by [@Cryptogovind](https://github.com/Cryptogovind) for the Rialo community!
 
 ---
 
-**Note**: Ye ek community project hai. Official links update hote hi add kar denge!
+**Note**: This is a community project. Official links will be added as they become available!
